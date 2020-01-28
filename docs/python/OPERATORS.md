@@ -4,7 +4,7 @@ Normally, when asked to find the sum of two numbers like **8.9 + 86.57**, you mi
 Let’s try it.
 
 <!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #0000DD; font-weight: bold">In [2]:</span> <span style="color: #888888"># addition of two numbers</span><br><span style="color: #6600EE; font-weight: bold">        8.9</span> <span style="color: #333333">+</span> <span style="color: #6600EE; font-weight: bold">86.57</span><br>
-<span style="color: #fd9595; font-weight: bold">Out[2]:</span> <span style="color: #6600EE; font-weight: bold">95.47</span>
+<span style="color: #fd9595; font-weight: bold">Out[2]:</span> 95.47
 </pre></div>
 
 
@@ -12,30 +12,30 @@ Let’s try it.
 As seen above Python can sum up numbers and this can be done for subtraction ( - ), division   ( / ) and multiplication ( * ) as seen below.
 
 
-#### Subtraction:
+#### Subtraction
 
 **9 - 4**
 
 <!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #0000DD; font-weight: bold">In [2]:</span> <span style="color: #888888"># subtraction of two numbers</span><br><span style="color: #6600EE; font-weight: bold">        9</span> <span style="color: #333333">-</span> <span style="color: #6600EE; font-weight: bold">4</span><br>
-<span style="color: #fd9595; font-weight: bold">Out[2]:</span> <span style="color: #6600EE; font-weight: bold">5</span>
+<span style="color: #fd9595; font-weight: bold">Out[2]:</span> 5
 </pre></div>
 
 
-#### Division: 
+#### Division 
 
 **20 / 5**
 
 <!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #0000DD; font-weight: bold">In [2]:</span> <span style="color: #888888"># division of two numbers</span><br><span style="color: #6600EE; font-weight: bold">        20</span> <span style="color: #333333">/</span> <span style="color: #6600EE; font-weight: bold">5</span><br>
-<span style="color: #fd9595; font-weight: bold">Out[2]:</span> <span style="color: #6600EE; font-weight: bold">4.0</span>
+<span style="color: #fd9595; font-weight: bold">Out[2]:</span> 4.0
 </pre></div>
 
 
-#### Multiplication: 
+#### Multiplication
 
 **9 * 6**
 
 <!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #0000DD; font-weight: bold">In [2]:</span> <span style="color: #888888"># multiplication of two numbers</span><br><span style="color: #6600EE; font-weight: bold">        9</span> <span style="color: #333333">*</span> <span style="color: #6600EE; font-weight: bold">6</span><br>
-<span style="color: #fd9595; font-weight: bold">Out[2]:</span> <span style="color: #6600EE; font-weight: bold">54</span>
+<span style="color: #fd9595; font-weight: bold">Out[2]:</span> 54
 </pre></div>
 
 # Operators
