@@ -125,8 +125,6 @@ As seen above we have printed out the Name and Class from the dictionary. Now le
 
 We have updated the Age and added the Address to our dictionary, now lets see the output.
 
-<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #0000DD; font-weight: bold">In [2]:</span><span style="color: #008800; font-weight: bold"> print</span>(<span style="color: red">&#39;hello world!&#39;</span>)<br><br><span style="color: #fd9595; font-weight: bold">Out[2]:</span> hello world!</pre></div><br>
-
 <!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #0000DD; font-weight: bold">In [2]:</span> <span style="color: #008800; font-weight: bold">print</span>(student)<br><span style="color: #008800; font-weight: bold">        print</span>(student<span style="color: #FF0000; color: red"></span>[<span style="color: red">&#39;Age&#39;</span>])<br><span style="color: #008800; font-weight: bold">        print</span>(student[<span style="color: red">&#39;Address&#39;</span>])<br><br><span style="color: #fd9595; font-weight: bold">Out[2]:</span> {<span >&#39;Name&#39;</span>:<span>&#39;Ernie&#39;</span>,<span>&#39;Age&#39;</span>:<span>18</span>,<span>&#39;Class&#39;</span>:<span>&#39;First&#39;</span>,<span>&#39;Address&#39;</span>:<span>&#39;WestHills&#39;</span>}<br>        <span>18</span><br>        <span>WestHills</span></pre></div>
 
 
