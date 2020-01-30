@@ -11,3 +11,12 @@
 * [Numerical Operators](python/OPERATORS.md)
 * [Variables](python/variables.md)
 * [Data Types](python/datatypes.md)
+* [Functions](python/functions.md)
+* [User Input](python/user_input.md)
+* [Comments](python/comments.md)
+* [Naming Guidelines](python/naming_guidelines.md)
+* [Conditional Statements](python/conditional_statements.md)
+* [Loops](python/loops.md)
+* [Project](python/project.md)
+* [Quiz](python/quiz.md)
+
